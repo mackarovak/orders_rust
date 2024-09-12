@@ -1,0 +1,11 @@
+/home/ksenia/rust/orders/target/debug/deps/libdeadpool-db8b157f30bd36e2.rmeta: /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/lib.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/managed/mod.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/managed/config.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/managed/errors.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/runtime.rs
+
+/home/ksenia/rust/orders/target/debug/deps/libdeadpool-db8b157f30bd36e2.rlib: /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/lib.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/managed/mod.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/managed/config.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/managed/errors.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/runtime.rs
+
+/home/ksenia/rust/orders/target/debug/deps/deadpool-db8b157f30bd36e2.d: /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/lib.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/managed/mod.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/managed/config.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/managed/errors.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/runtime.rs
+
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/lib.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/managed/mod.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/managed/config.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/managed/errors.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/deadpool-0.8.2/src/runtime.rs:

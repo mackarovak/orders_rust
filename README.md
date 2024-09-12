@@ -34,4 +34,7 @@ cargo run --bin orders
 Запустить скрипт для публикации данных через API:
 cargo run --bin client
 Устройте вашему сервису стресс-тест: выясните на что он способен:
- wrk -t12 -c400 -d30s http://127.0.0.1:3000/orders
+wrk -t12 -c400 -d30s http://127.0.0.1:3000/orders
+
+![](images/1.png)
+![](images/2.png)

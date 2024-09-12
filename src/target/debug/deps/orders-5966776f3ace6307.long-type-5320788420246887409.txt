@@ -1,0 +1,1 @@
+fn(axum::extract::Path<std::string::String>, Arc<std::sync::RwLock<HashMap<std::string::String, Vec<Order>>>>) -> impl Future<Output = Html<std::string::String>> {get_order}

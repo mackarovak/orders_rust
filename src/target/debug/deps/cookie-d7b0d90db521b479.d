@@ -1,0 +1,12 @@
+/home/ksenia/rust/orders/target/debug/deps/libcookie-d7b0d90db521b479.rmeta: /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/lib.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/builder.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/parse.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/jar.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/delta.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/same_site.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/expiration.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/prefix.rs
+
+/home/ksenia/rust/orders/target/debug/deps/cookie-d7b0d90db521b479.d: /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/lib.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/builder.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/parse.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/jar.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/delta.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/same_site.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/expiration.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/prefix.rs
+
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/lib.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/builder.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/parse.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/jar.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/delta.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/same_site.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/expiration.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.18.1/src/prefix.rs:

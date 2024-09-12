@@ -1,0 +1,12 @@
+/home/ksenia/rust/orders/target/debug/deps/libasync_trait-ad7dc8dfd76f67f6.so: /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/lib.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/args.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/bound.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/expand.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/lifetime.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/parse.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/receiver.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/verbatim.rs
+
+/home/ksenia/rust/orders/target/debug/deps/async_trait-ad7dc8dfd76f67f6.d: /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/lib.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/args.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/bound.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/expand.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/lifetime.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/parse.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/receiver.rs /home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/verbatim.rs
+
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/lib.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/args.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/bound.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/expand.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/lifetime.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/parse.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/receiver.rs:
+/home/ksenia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.82/src/verbatim.rs:
